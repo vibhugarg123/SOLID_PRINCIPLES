@@ -1,4 +1,4 @@
-package com.vibhu.singleresponsibility;
+package com.vibhu.srp;
 
 // Expected : The only job of this class should be manipulating text.
 // Violation: Performing 2 responsibilities- manipulating and printing the text.

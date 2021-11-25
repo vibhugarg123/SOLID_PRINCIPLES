@@ -1,4 +1,4 @@
-package com.vibhu.singleresponsibility;
+package com.vibhu.srp;
 
 import java.util.Arrays;
 
